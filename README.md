@@ -50,8 +50,8 @@ For churn prediction, **ROC-AUC** and **Recall** are most important:
 | Model | Accuracy | ROC-AUC | Recall | Comment |
 |--------|-----------|---------|----------|----------|
 | Logistic Regression | 0.82 | 0.86 | 0.58 | Best performing overall |
-| SVM | 0.82 | 0.85 | 0.58 | Good but slightly lower |
-| Random Forest | 0.79 | 0.84 | 0.49 | Worst Performing |
+| SVM | 0.81 | 0.85 | 0.54 | Good but slightly lower |
+| Random Forest | 0.80 | 0.84 | 0.48 | Worst Performing |
 
 ---
 
