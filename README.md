@@ -48,7 +48,7 @@ For churn prediction, **ROC-AUC** and **Recall** are most important:
 ## 📈 Results Summary
 
 | Model | Accuracy | ROC-AUC | Recall | Comment |
-|--------|-----------|---------|----------|
+|--------|-----------|---------|----------|----------|
 | Logistic Regression | 0.82 | 0.86 | 0.58 | Best performing overall |
 | SVM | 0.82 | 0.85 | 0.58 | Good but slightly lower |
 | Random Forest | 0.79 | 0.84 | 0.49 | Worst Performing |
@@ -57,15 +57,3 @@ For churn prediction, **ROC-AUC** and **Recall** are most important:
 
 ## 📬 Author
 **Mehar Singh Bawa**  
-
-
-
-## 📈 Results Summary
-
-| Model | Accuracy | ROC-AUC | Comment |
-|--------|-----------|---------|----------|
-| Logistic Regression | Highest | Highest | Best performing overall |
-| SVM | Moderate | Moderate | Good but slightly lower |
-| Random Forest | Lower | Lower | Possible overfitting |
-
----
